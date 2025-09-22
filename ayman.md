@@ -6,3 +6,5 @@
 
 \* Mi lenguaje favorito es Java.
 
+\* Versión V2.0
+
